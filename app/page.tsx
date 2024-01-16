@@ -4,7 +4,7 @@ export default function Home() {
       Checkout the following pages:
       <ul>
         <li>
-          <code>'/timer'</code>
+          <code>&lsquo;/timer&lsquo;</code>
         </li>
       </ul>
     </div>
