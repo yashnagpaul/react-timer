@@ -31,7 +31,7 @@ export default function Timer() {
 
   return (
     <div>
-      <div>TIMER</div>
+      <div>COUNTDOWN</div>
       {/* <input
         value={minutes}
         type='number'
